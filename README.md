@@ -1,5 +1,5 @@
 # PythonZTM
-In this repository, there are the lessons for [Complete Python Developer in 2021: Zero to Mastery](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/)
+In this repository, there are the exercises for [Complete Python Developer in 2021: Zero to Mastery](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/)
 ## Scripting with Python
 * Image's Conversion - [Images_Module](https://github.com/josse995/PythonZTM/tree/main/Images_module)
 * Operations with PDF, such as add, remove, merge, rotate and watermark - [PDF_Module](https://github.com/josse995/PythonZTM/tree/main/PDF_module)
