@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>MY WEBSITE</title>
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css')}}" />
+  <link rel="shortcut icon" href="{{ url_for('static', filename='face.ico')}}" />
+</head>
+
+<body>
+  {{name}}
+  {{post_id}}
+  <script src="{{ url_for('static', filename='script.js')}}"></script>
+</body>
+
+</html>
