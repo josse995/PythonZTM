@@ -7,3 +7,5 @@ In this repository, there are the exercises for [Complete Python Developer in 20
 * Python program that check if a password has been hacked through [**haveibeenpwned**](https://haveibeenpwned.com/) API - [Password_Module](https://github.com/josse995/PythonZTM/tree/main/Password_module)
 * Simple twitter bot - [Twitter_Module](https://github.com/josse995/PythonZTM/tree/main/Twitter_Module)
 * Scraping data from a web page - [ScrapingData](https://github.com/josse995/PythonZTM/tree/main/ScrapingData)
+* Server implemented with Flask - [Web_Module](https://github.com/josse995/PythonZTM/tree/main/Web_Module)
+* Webpage Automation using Selenium - [Automation_Module](https://github.com/josse995/PythonZTM/tree/main/Automation_Module)
